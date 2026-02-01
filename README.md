@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepa!</h1>
-<h3 align="center">A passionate Data Analyst from United States of America.</h3>
+<h3 align="center">A passionate Software Engineer from Sunnyvale, California.</h3>
 
 - 📫 How to reach me **78deepurm12@gmail.com**
 
