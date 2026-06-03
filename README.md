@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer based in California, specializing in low-level Android architecture and system-level firmware.</strong>
+  <strong>A Software Engineer based in California, specializing in low-level Android architecture and system-level firmware.</strong>
 </p>
 
 <p align="center">
