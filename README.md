@@ -47,6 +47,16 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> 
 </p>
 
+#### 📡 Wireless Protocol Validation 
+<p align="left">
+  <!-- 4G/5G NR -->
+  <img src="https://img.shields.io/badge/4G_LTE_%2F_5G_NR-FF6F00?style=for-the-badge&logo=antenna&logoColor=white" alt="4G LTE & 5G NR" height="35"/>
+  <!-- Qualcomm QXDM/QCAT -->
+  <img src="https://img.shields.io/badge/Qualcomm_QXDM_%26_QCAT-00539B?style=for-the-badge&logo=qualcomm&logoColor=white" alt="Qualcomm Tools" height="35"/>
+  <!-- Wireshark -->
+  <a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" height="35"/> </a>
+</p>
+
 #### 📊 Scripting, Data & DevOps
 <p align="left">
   <!-- Python -->
@@ -67,16 +77,12 @@
 <p align="left">
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a> 
-  <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/> </a> 
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> 
   <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a> 
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a> 
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> </a> 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a> 
   <!-- HTML5 -->
